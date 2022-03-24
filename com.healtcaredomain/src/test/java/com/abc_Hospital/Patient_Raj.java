@@ -7,6 +7,8 @@ public class Patient_Raj {
 		System.out.println("hello");
 		
 		System.out.println("shakir hello");
+		
+		System.out.println("patient come");
 	}
 
 }
